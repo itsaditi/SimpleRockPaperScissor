@@ -1,7 +1,7 @@
-<h1> Simple Rock Paper Scissor </h1>
+<h1> Simple Rock Paper Scissor </h1><hr>
 
 A simple game made in Python 3.<br>
-Download RockPaperScissor.exe to play the game.
+<b>Download RockPaperScissor.exe to play the game.</b>
 
 Instructions are as follow-<br>
 [X] Switch off the caps lock of your keyboard.<br>
